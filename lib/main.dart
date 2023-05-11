@@ -42,7 +42,7 @@ class _MyWidgetState extends State<MyWidget> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("GridView"),
+        title: Text("ROBBY MAULANA - 191011401643"),
       ),
       body: GridView.count(
         crossAxisCount: 3,
